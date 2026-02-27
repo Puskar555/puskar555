@@ -6,7 +6,7 @@
 
 *Building end-to-end machine learning pipelines — from raw data to production deployment*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([www.linkedin.com/in/](https://linkedin.com/in/puskar-raj-acharya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/puskar-raj-acharya)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:acharya.puskar555@hotmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Puskar555)
 
