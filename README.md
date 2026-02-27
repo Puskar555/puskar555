@@ -1,22 +1,114 @@
-<h1 align="center">Hi 👋, I'm Puskar Raj Acharya</h1>
-<h3 align="center">A passionate developer and AI enthusiast. I have a diverse skill set in web development and artificial intelligence, and I love sharing my knowledge with others. If you're looking to learn HTML, CSS, Python, Generative AI, or prompt engineering, you're in the right place!</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Python: Data structures, algorithms, web scraping, and automation.**
+# Puskar Raj Acharya
 
-- 🌱 I’m currently learning **DataCamp, coursera,**
+**Data Scientist · ML Engineer · Financial Analytics**
 
-- 💬 Ask me about **Web Development - HTML: Semantic HTML, forms, tables, multimedia elements. - CSS: Flexbox, Grid, animations, responsive design. Programming - Python: Data structures, algorithms, web scraping, automation. -Artificial Intelligence -Generative AI: Neural networks, GANs, transformers, practical applications. Prompt Engineering: Crafting effective prompts for AI models, and fine-tuning techniques.**
+*Building end-to-end machine learning pipelines — from raw data to production deployment*
 
-- 📫 How to reach me **acharya.puskar555@hotmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/puskar-acharya)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:acharya.puskar555@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Puskar555)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/puskar acharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puskar acharya" height="30" width="40" /></a>
-<a href="https://fb.com/puskar acharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="puskar acharya" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=puskar555&show_icons=true&locale=en&layout=compact" alt="puskar555" /></p>
-![image](https://github.com/Puskar555/puskar555/assets/161777281/0c4b981b-f690-40c3-8fdb-e6898789f58e)
+## About Me
+
+I'm a Data Science student at **BI Norwegian Business School** (Oslo) with hands-on experience in machine learning, fraud detection, and time series forecasting. I work across the full data lifecycle: cleaning messy data, training and tuning models, and deploying them with CI/CD pipelines.
+
+My background is a bit unusual: I started out teaching statistics to 200+ high school students in Nepal, then moved into data analysis roles. That combination of teaching and technical work means I care a lot about making models and results understandable, not just accurate.
+
+Currently focused on: **supervised learning, deep learning (LSTM/Transformers), and MLOps.**
+
+---
+
+## Core Skills
+
+| Area | Tools & Technologies |
+|---|---|
+| **Languages** | Python, SQL, R, SPSS |
+| **ML / DL** | TensorFlow, Scikit-learn, XGBoost, Random Forest, Neural Networks, LSTM |
+| **Time Series** | ARIMA, Prophet, LSTM with attention |
+| **Data & Viz** | Pandas, NumPy, PowerBI, Tableau, Excel |
+| **Web / APIs** | Django, Flask, FastAPI, HTML/CSS |
+| **Databases** | PostgreSQL, MySQL |
+| **MLOps** | Docker, CI/CD, Git/GitHub, Model Deployment |
+
+---
+
+## Featured Projects
+
+### 🔍 Financial Fraud Detection System
+`Python` `TensorFlow` `Docker` `CI/CD`
+
+End-to-end ML pipeline for fraud detection on 100k+ imbalanced transactions. Compared Logistic Regression, Random Forest, XGBoost, and Neural Networks using stratified k-fold cross-validation. Best model (tuned Random Forest) hit **87% precision, 82% recall, F1: 0.84**. Deployed with Docker and a full CI/CD pipeline with automated retraining and rollback.
+
+---
+
+### 📈 Time Series Forecasting with Deep Learning
+`TensorFlow` `LSTM` `Prophet` `Python`
+
+Benchmarked ARIMA, Prophet, and LSTM neural networks for sales prediction. LSTM with attention mechanism outperformed traditional methods by **18% on RMSE**. Pipeline includes lag features, rolling statistics, seasonal decomposition, and automated retraining on new data.
+
+---
+
+### 📊 Customer Segmentation & Analytics Dashboard
+`PowerBI` `Python` `SQL` `Scikit-learn`
+
+Applied K-Means clustering on 50k+ customer records to identify **5 distinct behavioral segments**. Results fed into an interactive PowerBI dashboard with live SQL data pipelines, used to inform targeted marketing and retention decisions.
+
+---
+
+### 🎓 Student Result Management System
+`Django` `PostgreSQL` `Git` `HTML/CSS`
+
+Full-stack application (built with a team of 3) managing 1,000+ student records. Designed the database schema and RESTful APIs with role-based access control, plus a responsive frontend for grade management and performance analytics.
+
+🔗 [View on GitHub](https://github.com/attit-maharjan/BI_VGS)
+
+---
+
+## Experience
+
+**Data Science Analyst — BI Norwegian Business School** *(Aug 2023 – Present)*
+Financial fraud analysis using regression and anomaly detection (85% accuracy), PowerBI dashboards for customer segmentation, automated Python/SQL data pipelines improving fraud detection efficiency by 15%.
+
+**Statistics Teacher — High School, Nepal** *(2020 – 2021)*
+Taught statistics and mathematics to 200+ students. Developed curriculum and refined the ability to explain complex quantitative concepts clearly.
+
+**Tour Officer — Tourism Sector, Nepal** *(2018 – 2020)*
+Team leadership and logistics coordination in high-pressure, time-sensitive environments.
+
+---
+
+## Education
+
+🎓 **BSc in Data Science in Business** — BI Norwegian Business School, Oslo *(2023 – 2026)*
+GPA: B+ | Machine Learning, Statistics with Programming, Financial Analytics, Databases
+
+🎓 **BSc in Statistics** — Tribhuvan University, Kathmandu *(2013 – 2018)*
+Statistical Theory, Mathematics, Physics, R, SPSS
+
+---
+
+## Languages
+
+🇬🇧 English (Fluent) · 🇳🇴 Norwegian (B1) · 🇳🇵 Nepali (Native) · 🇮🇳 Hindi (Native) · 🇩🇪 German (A2)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=puskar555&show_icons=true&locale=en&layout=compact&theme=default)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Open to collaboration on ML, data analytics, and financial modeling projects.</sub>
+</div>
